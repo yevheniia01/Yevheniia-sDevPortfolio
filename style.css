@@ -1,0 +1,70 @@
+.nav-link{
+    color: black;
+    cursor: pointer;
+}
+#logo{
+    width: 40%;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    box-shadow: 2px 2px 14px 0px #000000;
+}
+.row{
+    background: white;
+    padding: 10px;
+}
+.card{
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 90%;
+    height: 30rem;
+    margin-bottom: 10rem;
+    box-shadow: 2px 2px 14px 0px #817d7d;
+    border-radius: 10px;
+}
+ul{
+    padding: 0;
+}
+.description{
+    color: white;
+    font-size: 25px;
+    margin: 1rem;
+    margin-bottom: 2rem;
+}
+.navbar-brand{
+    font-size: 27px;
+}
+.nav-link{
+    font-size: 20px;
+    padding: 0.6rem;
+    cursor: pointer;
+    color: black
+}
+.nav-link:hover{
+    color: #8482ee;
+    background-color: whitesmoke;
+}
+.card-title{
+    font-size: 2rem;
+}
+li{
+    font-size: 1.5rem;
+    margin: 10px;
+}
+.project-img{
+    width: 100%;
+    margin: auto;
+}
+.project-col{
+margin: auto;
+text-align: center;
+}
+footer{
+    background-color: #8482ee;
+    text-align: center;
+}
+.social-img{
+    width: 32px;
+    margin: 15px;
+}
