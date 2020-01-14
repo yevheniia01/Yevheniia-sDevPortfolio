@@ -6,4 +6,9 @@ $(document).ready(function(){
             scrollTop: $('#projects-row').offset().top
         },'slow')
     })
+    $('.contactme-link').click(function(){
+        $('html,body').animate({
+            scrollTop: $('footer').offset().top
+        }, 'slow')
+    })
 })

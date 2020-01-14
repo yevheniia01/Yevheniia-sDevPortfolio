@@ -55,6 +55,7 @@ li{
 .project-img{
     width: 100%;
     margin: auto;
+    box-shadow: 2px 2px 14px 0px #000000;
 }
 .project-col{
 margin: auto;
@@ -67,4 +68,13 @@ footer{
 .social-img{
     width: 32px;
     margin: 15px;
+}
+#moreOnGithub{
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+#moreOnGithub:hover{
+    text-decoration: none;
+    ;
 }
